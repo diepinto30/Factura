@@ -1,0 +1,5 @@
+Diego Pinto;Guayaquil;Loja;Ecuador;4;Mac;1200;
+Camila Pinto;Paris;Loja;Ecuador;3,00;Pc;670,50;
+Patrico Orellan;Cuenca;Cuenca;Ecuador;6,00;Tablets;230,99;
+Rosario;Orellana;Loja;Ecuador;12,00;Arroz;23,00;
+Bryant;Salvador;Loja;Ecuado;2,00;Laptos;1234,00;
